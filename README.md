@@ -10,21 +10,27 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 
 ### Planificación de actividades
 
-![Image-2](TRELLO DE ACTIVIDADES)
+![Image-2](https://github.com/PaoSil/Take-Time/blob/master/assets/img/trello-actividades.png)
 
 ### Proceso de desarrollo:
 
-![Image-3](PROCESO DE DESARROLLO).
+![Image-3](https://github.com/PaoSil/Take-Time/blob/master/assets/img/proceso%20de%20desarrollo%20.png).
 
 ## Planeamiento e Investigación
 
 ### Proceso de desarrollo:
 
+#### Benchmarking:
+
+**Fuentes**
+
+-----------------------
+
 #### Business Model Canvas:
 
 **PRIMER MODEL CANVAS**
 
-![Image-4](Canvanizer)
+![Image-4](https://github.com/PaoSil/Take-Time/blob/master/assets/img/model%20canvas.png)
 
 #### Stakeholders:
 
@@ -33,9 +39,6 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 ----------------------
 
 **EXTERNOS**
-
-----------------------
-
 #### Kick-off meeting:
 
 ----------------------
@@ -45,4 +48,4 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 **Objetivos**
 
 * Planear: la investigacion cuantitativa y cualitativa.
-* Reclutar: personas que cumplan el perfil 
+* Reclutar: personas que cumplan el perfil
