@@ -62,13 +62,15 @@ Esta app fue creada por un Ingeniero Industrial, que basado en su experiencia no
 
 **INTERNOS**
 
-----------------------
+![Image-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders.png)
+
+**Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
 
 **EXTERNOS**
 
 #### Kick-off meeting:
 
-----------------------
+
 
 #### Plan Research:
 
