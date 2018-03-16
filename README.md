@@ -12,7 +12,7 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 
 Las actividades a realizar, se va a organizar de la siguiente manera:
 
-![Image-2](https://github.com/PaoSil/Take-Time/blob/master/assets/img/trello-actividades.png)
+![Image-2](https://github.com/PaoSil/Take-Time/blob/master/assets/img/trello-final.png)
 
 **Fuente**: <https://trello.com/b/kX9AEZnS/taking-time>
 
