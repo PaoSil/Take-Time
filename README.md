@@ -22,6 +22,8 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 
 #### Business Model Canvas:
 
+**PRIMER MODEL CANVAS**
+
 ![Image-4](Canvanizer)
 
 #### Stakeholders:
@@ -34,4 +36,13 @@ Es un app que te ayudará a registrar los tiempos de diversas actividades manufa
 
 ----------------------
 
-#### 
+#### Kick-off meeting:
+
+----------------------
+
+#### Plan Research:
+
+**Objetivos**
+
+* Planear: la investigacion cuantitativa y cualitativa.
+* Reclutar: personas que cumplan el perfil 
