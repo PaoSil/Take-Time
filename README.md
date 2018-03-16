@@ -16,6 +16,38 @@ Las actividades a realizar, se va a organizar de la siguiente manera:
 
 **Fuente**: <https://trello.com/b/kX9AEZnS/taking-time>
 
+### Plan Research:
+
+**Objetivos**
+
+* Planear: la investigación cuantitativa y cualitativa.
+* Reclutar: personas que cumplan el perfil ideal para validar supuestos.
+* Conducir: la investigación de la problemática y expectativas de los usuarios.
+* Analizar: supuestos y validaciones.
+* Reportar: conclusiones y feedback.
+
+**Metodología**
+
+* Revisión de Fuentes externas:
+  - Recopilación y conclusiones de investigación de servicios ya existentes.
+  - Información de los servicios de la competencia.
+  - Documentos legales relacionados.
+*   Entrevistas.
+  - Lista de perfiles a quienes evaluar.
+  - Guía de entrevistas.
+  - Modelo de entrevistas.
+
+**Actividades**
+
+* Cronograma de actividades y duración .
+
+**Estrategia**
+
+* Para las entrevistas, reclutar personas de confianza.
+* Entrevistas via telefonica.
+* Recabar Información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
+* Entrevistas se realizara en las noches.
+
 ### Proceso de desarrollo:
 
 En el proceso de desarrollo se va analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el producto que queremos desarrollar.
@@ -62,19 +94,14 @@ Esta app fue creada por un Ingeniero Industrial, que basado en su experiencia no
 
 **INTERNOS**
 
+Aquellos Stakeholders que trabajan en una empresa.
+
 ![Image-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders.png)
 
 **Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
 
 **EXTERNOS**
 
-#### Kick-off meeting:
+![Image-6](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders-2.png)
 
-
-
-#### Plan Research:
-
-**Objetivos**
-
-* Planear: la investigacion cuantitativa y cualitativa.
-* Reclutar: personas que cumplan el perfil
+**Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
