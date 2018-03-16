@@ -26,6 +26,27 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías que
 
 #### Benchmarking:
 
+Hemos encontrado dos competencias que tambien han desarrollado esta tecnologia.
+
+##### EON - Estudios de Tiempos
+
+**Experiencia**
+
+Esta app fue creada por un Ingeniero Industrial, que basado en su experiencia nos comenta lo siguiente: "fue un verdadero dolor de cabeza para mis compañeros el dominar esta técnica. Digo para mis compañeros porque un amigo mío y yo, apoyándonos de nuestros conocimientos de Visual Basic, desarrollamos un pequeño y práctico software que nos ayudaba a tomar, registrar y analizar los tiempos de las operaciones para luego calcular el tiempo estándar de las mismas. Todo esto sin ponerle la mano al cronómetro, papel y lápiz. Lo que mis compañeros hacían en una clase de 4 horas, mi amigo y yo, lo hacíamos 1 hora (75% mas rápido)".
+
+**Contacto**: <eonestudiosdetiempos@gmail.com>
+
+**Que soluciona EON**
+
+- Eon, es una aplicacion que puede ser utilizada desde un movil o tablet.
+- Eon ayuda a que la toma de tiempos sea mas rapida, segura y sencilla.
+- Es gratuita para beneficiar a la comunidad de estudiantes y profesionales del area de Ingeniera Inductrial.
+
+**Vistas de la Aplicación**
+
+
+
+
 **Fuentes**
 
 -----------------------
@@ -45,6 +66,7 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías que
 ----------------------
 
 **EXTERNOS**
+
 #### Kick-off meeting:
 
 ----------------------
