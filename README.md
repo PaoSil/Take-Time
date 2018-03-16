@@ -44,12 +44,11 @@ Esta app fue creada por un Ingeniero Industrial, que basado en su experiencia no
 
 **Vistas de la Aplicación**
 
+![Image-4](https://github.com/PaoSil/Take-Time/blob/master/assets/img/eon1.png)
 
+![Image-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/eon2.png)
 
-
-**Fuentes**
-
------------------------
+**Fuentes**: <https://play.google.com/store/apps/details?id=com.hotmail.mercado.tactuk.ivan.editfields&hl=es_419>
 
 #### Business Model Canvas:
 
