@@ -105,3 +105,36 @@ Aquellos Stakeholders que trabajan en una empresa.
 ![Image-6](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders-2.png)
 
 **Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
+
+#### Entrevistas a stakeholders:
+
+##### Entrevistas presenciales:
+
+**Target**: Practicantes de Ingeneria y Profesionales.
+
+**Introduccion**:
+
+Hola soy Paola, y quisiera hacerte una entrevista para conocerte un poco y saber como ha sido tu experiencia realizando estudios de tiempos, antes quisiera saber si ¿estas de acuerdo en que se te grabe la entrevista?, el cual sera confidencial. Si en algun momento no quieres continuar con la entrevista, dilo con confianza. No se te juzgara por ello.
+
+**Warming Up**:
+
+1. ¿Cual es tu nombre?
+2. ¿Tu edad?
+3. ¿Por donde vives?
+4. ¿A que te dedicas actualmente?
+5. ¿Haz realizado estudio de tiempos?
+6. ¿Que herramientas haz empleado para hacer estudios de tiempos?
+7. Basado en tu experiencia. ¿Podrias contarme de que trata hacer estudios de tiempos?
+8. ¿Haz tenido dificultad para tomar estudios de tiempos?, ¡Que sucedio?
+9. ¿Que harias para mejorar esa experiencia?
+10. ¿Que implementarias para que se mejore el proceso de estudio de tiempos? ¿Como lo harias?
+11. ¿Usas algun programa para poder realizar tus estudios de tiempos? ¿Que programa?
+12. ¿Podrias explicarme detalladamente de que trata ese programa?.
+13. ¿Haz tenido dificultades al usar este programa? ¿Cuales?
+14. Si hubiese un nuevo programa ¿que implementarias para tener un eficiente estudios de tiempos?
+
+**Mapa de Afinidad**:
+
+
+
+##### Encuesta Online:
