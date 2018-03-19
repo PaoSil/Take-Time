@@ -2,9 +2,9 @@
 
 ![Image-1](LOGO)
 
-## Descripción
+## Contexto:
 
-Take Time App Co. ha identificado una brecha en las aplicaciones de estudios de tiempos (técnica utilizada por ingenieros para determinar el tiempo estándar permisible para realizar una determinada actividad) en las plataformas móviles para los ingenieros (iOS y Android). Un gran número de ingenieros tiene problemas para tomar estudios de tiempos a las actividades realizadas por los operarios de una empresa manufacturera (textiles, metalmecánica, papelera, química, etc.). Nuestra solución está diseñada para que sea más rápido la toma de tiempos. Mediante un modelo de negocio, análisis competitivo, plan research y diseño; la aplicación ofrece una experiencia de usuario útil y eficiente.
+Take Time App Co. ha identificado una brecha en las aplicaciones de estudios de tiempos (técnica utilizada por ingenieros para determinar el tiempo estándar permisible para realizar una determinada actividad) en las aplicaciones móviles para los ingenieros (iOS y Android). Un gran número de ingenieros tiene problemas para tomar estudios de tiempos a las actividades realizadas por los operarios de una empresa manufacturera (textiles, metalmecánica, papelera, química, etc.). Nuestra solución está diseñada para que sea más rápido la toma de tiempos. Mediante un modelo de negocio, análisis competitivo, plan research y diseño; la aplicación ofrece una experiencia de usuario útil y eficiente.
 
 #### Proyecto desarrollado en [Laboratoria](http://www.laboratoria.la/)
 
@@ -23,6 +23,11 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías que
 ![Image-3](https://github.com/PaoSil/Take-Time/blob/master/assets/img/proceso%20de%20desarrollo.png).
 
 ### Modelo de Negocio:
+
+#### Idea de Negocio:
+
+Take Time es una aplicación móvil que ayuda a tomar tiempos, a las actividades realizadas por los operarios de una empresa, de manera útil y eficiente.
+
 
 #### Business Model Canvas:
 
