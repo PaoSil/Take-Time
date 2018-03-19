@@ -226,4 +226,6 @@ Con la informacion reclutada de las entrevistas, se define nuestro User Persona.
 
 **1er prototipo**
 
-![Imagen-13]()
+![Imagen-13](https://github.com/PaoSil/Take-Time/blob/master/assets/img/prototyping-1.jpg)
+
+**Fuente:** <https://www.figma.com/file/fYggbkAnXZWbAmcphxIe9tLz/Estudio-de-tiempos?node-id=1%3A30>
