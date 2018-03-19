@@ -186,3 +186,15 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 | Stakeholders | <https://docs.google.com/forms/d/108nZ9KHhQjglMvrmTTc7BrHqkGgglOuxYFfetB6Bt_k/edit>|
 
 #### Datos Estadísticos:
+
+![Imagen-7](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stadistics-1.png)
+
+![Imagen-8](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stadistics-2.png)
+
+![Imagen-9](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stadistics-3.png)
+
+### Affinity Map:
+
+![Imagen-10]()
+
+**Fuente:** <https://realtimeboard.com/app/board/o9J_kzs2ZlA=/>
