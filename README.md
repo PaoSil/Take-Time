@@ -202,3 +202,10 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 ### User Persona:
 
 Con la informacion reclutada de las entrevistas, se define nuestro User Persona.
+
+![Imagen-11](https://github.com/PaoSil/Take-Time/blob/master/assets/img/User%20persona.png)
+
+**Fuente:**
+<https://app.xtensio.com/edit/v7zajvjs>
+
+### Arquitectura de Informacion:
