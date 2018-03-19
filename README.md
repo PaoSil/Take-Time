@@ -208,4 +208,17 @@ Con la informacion reclutada de las entrevistas, se define nuestro User Persona.
 **Fuente:**
 <https://app.xtensio.com/edit/v7zajvjs>
 
+
 ### Arquitectura de Informacion:
+
+#### Mapa del sitio:
+
+![Imagen-12]()
+
+### Prototyping:
+
+#### Manual:
+
+**1er prototipo**
+
+![Imagen-13]()
