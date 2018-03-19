@@ -115,73 +115,74 @@ Hemos encontrado dos competencias que tambien han desarrollado esta tecnologia.
 
 | Aplicación | Gratis | Exportar E.T. | Información |  Reanudar E.T. | Guardar E.T. | Suplementos por género | Factor de Valoración | Selección Nº de Operaciones | Selección Nº de ciclos | Calcular T.S. total |
 |:----------:|:------:|:-------------:|:-----------:|:--------------:|:------------:|:----------------------:|:-----------------------:|:---------------------------:|:----------------------:|:-------------------:|
-|EON| **SÍ** | NO | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | **SÍ** |
-| Estudio de Tiempo Industrial | NO | **SÍ** | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | NO |
+| **EON** | **SÍ** | NO | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | **SÍ** |
+| **Estudio de Tiempo Industrial** | NO | **SÍ** | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | NO |
 
 ### Plan Research:
 
-**Objetivos**
 
-* Planear: la investigación cuantitativa y cualitativa.
-* Reclutar: personas que cumplan el perfil ideal para validar supuestos.
-* Conducir: la investigación de la problemática y expectativas de los usuarios.
-* Analizar: supuestos y validaciones.
-* Reportar: conclusiones y feedback.
+1. **Objetivos**
 
-**Metodología**
+    * Planear: la investigación cuantitativa y cualitativa.
+    * Reclutar: personas que cumplan el perfil ideal para validar supuestos.
+    * Conducir: la investigación de la problemática y expectativas de los usuarios.
+    * Analizar: supuestos y validaciones.
+    * Reportar: conclusiones y feedback.
 
-* Revisión de Fuentes externas:
-  - Recopilación y conclusiones de investigación de servicios ya existentes.
-  - Información de los servicios de la competencia.
-  - Documentos legales relacionados.
-*   Entrevistas.
-  - Lista de perfiles a quienes evaluar.
-  - Guía de entrevistas.
-  - Modelo de entrevistas.
 
-**Actividades**
+2. **Metodología**
 
-* Cronograma de actividades y duración .
+    * Revisión de Fuentes externas:
+      - Recopilación y conclusiones de investigación de servicios ya existentes.
+      - Información de los servicios de la competencia.
+      - Documentos legales relacionados.
+    *   Entrevistas.
+      - Lista de perfiles a quienes evaluar.
+      - Guía de entrevistas.
+      - Modelo de entrevistas.
 
-**Estrategia**
 
-* Para las entrevistas, reclutar personas de confianza.
-* Entrevistas via telefonica.
-* Recabar Información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
-* Entrevistas se realizara en las noches.
+3. **Actividades**
+
+    * Cronograma de actividades y duración.
+
+
+4. **Estrategia**
+
+    * Para las entrevistas, reclutar personas de confianza.
+    * Entrevistas via telefonica.
+    * Recabar Información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
+    * Entrevistas se realizara en las noches.
+
 
 ### Research Cualitativo:
 
 #### Entrevistas a stakeholders:
 
-##### Entrevistas presenciales:
+Las entrevistas a los stakeholders se hizo vía telefónica.
 
-**Target**: Practicantes de Ingeneria y Profesionales.
+**Target :** Practicantes de Ingeneria y Profesionales.
 
-**Introduccion**:
+**Entrevista :**
 
-Hola soy Paola, y quisiera hacerte una entrevista para conocerte un poco y saber como ha sido tu experiencia realizando estudios de tiempos, antes quisiera saber si ¿estas de acuerdo en que se te grabe la entrevista?, el cual sera confidencial. Si en algun momento no quieres continuar con la entrevista, dilo con confianza. No se te juzgara por ello.
+| Entrevista | Link |
+|:----------:|:----:|
+| Stakeholders | <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5006&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru> |
 
-**Warming Up**:
+**Conclusiones :**
 
-1. ¿Cual es tu nombre?
-2. ¿Tu edad?
-3. ¿Por donde vives?
-4. ¿A que te dedicas actualmente?
-5. ¿Haz realizado estudio de tiempos?
-6. ¿Que herramientas haz empleado para hacer estudios de tiempos?
-7. Basado en tu experiencia. ¿Podrias contarme de que trata hacer estudios de tiempos?
-8. ¿Haz tenido dificultad para tomar estudios de tiempos?, ¡Que sucedio?
-9. ¿Que harias para mejorar esa experiencia?
-10. ¿Que implementarias para que se mejore el proceso de estudio de tiempos? ¿Como lo harias?
-11. ¿Usas algun programa para poder realizar tus estudios de tiempos? ¿Que programa?
-12. ¿Podrias explicarme detalladamente de que trata ese programa?.
-13. ¿Haz tenido dificultades al usar este programa? ¿Cuales?
-14. Si hubiese un nuevo programa ¿que implementarias para tener un eficiente estudios de tiempos?
-
-**Mapa de Afinidad**:
+* Con respecto a la toma de tiempos, lo consideran un proceso **cansado** y **aburrido.**
+* Les gustaría que haya una herramienta para que les facilité el estudios de tiempos y le arroje todos los resultados.
+* Qué no sólo calcule los tiempos reales que demora un operario al hacer una determinada operación, sino una variación de tiempos de acuerdo a las deficiencias que puede presentar el trabajador.
+* Qué sea una herramienta eficiente y transportable.
 
 
 ### Research cuantitativo:
 
-##### Encuesta Online:
+#### Encuesta Online:
+
+| Encuesta Online | Link |
+|:---------------:|:----:|
+| Stakeholders | <https://docs.google.com/forms/d/108nZ9KHhQjglMvrmTTc7BrHqkGgglOuxYFfetB6Bt_k/edit>|
+
+#### Datos Estadísticos:
