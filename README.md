@@ -12,15 +12,15 @@ Take Time App Co. ha identificado una brecha en las aplicaciones de estudios de 
 
 Las actividades a realizar, se va a organizar de la siguiente manera:
 
-![Image-2](https://github.com/PaoSil/Take-Time/blob/master/assets/img/trello-final.png)
+![Image-2](https://github.com/PaoSil/Take-Time/blob/master/assets/img/Trello%20activities.png)
 
-**Fuente**: <https://trello.com/b/kX9AEZnS/taking-time>
+**Fuente**: <https://trello.com/b/kX9AEZnS/take-time>
 
 ### Proceso de desarrollo:
 
 En el proceso de desarrollo se va analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el producto que queremos desarrollar.
 
-![Image-3](https://github.com/PaoSil/Take-Time/blob/master/assets/img/proceso%20de%20desarrollo%20.png).
+![Image-3](https://github.com/PaoSil/Take-Time/blob/master/assets/img/proceso%20de%20desarrollo.png).
 
 ### Modelo de Negocio:
 
@@ -34,29 +34,53 @@ En el proceso de desarrollo se va analizar cuáles serían las metodologías que
 
 #### Stakeholders:
 
-**INTERNOS**
+|INTERNOS|
+|:------:|
 
 Aquellos Stakeholders que trabajan en una empresa.
 
-![Image-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders.png)
+| Área | Stakeholders | Tipo | Rol en la empresa |
+|:----:|:------------:|:----:|:------------------|
+| Gerencia Genreal | Gerente General | Interno |  Toma las decisiones generales de la empresa |
+| Planeamiento | Jefe de Planeamiento| Interno |  Administra el proceso de planificación y control de gestión empresarial |
+| Planeamiento | Jefe de Proyectos | Interno | Toma las decisiones dentro del ámbito y objetivos de la empresa.|
+| Administración y Finanzas | Jefe de Recursos Humanos | Interno | Dirige, planifica y controla las diversas tareas que implica la administración de los RR.HH. en la empresa. |
+| Administración y Finanzas | Jefe de costos | Interno | Dar seguimiento al cumplimiento de los costos y presupuestos de materias primas e insumos directos e indirectos que intervienen en el proceso de producción.|
+| Producción | Jefe de Producción | Interno | Controla y supervisa el área de producción de la empresa. |
+| Producción | Jefe de Almacén | Interno | Controlar y supervisar de los materiales que entran y salen de almacén. |
+| Producción | Jefe de Calidad | Interno | Controlar y supervisar durante todo el proceso de producción para obtener buenos productos de calidad. |
+| Producción | Jefe de Mantenimiento | Interno | Controlar y supervisar todas la maquinas de las empresas, para que no presenten desperfectos. |
+| Producción | Personal de producción | Interno | La mano de obra de la empresa. |
+| Desarrollo de Producto | Jefe de Desarrollo de Producto | Interno | Controlar y supervisar que todo el proceso este acorde a las fichas de especificaciones de producción. |
+| Comercial y Ventas | Jefe de Ventas | Interno | Supervisar y hacer seguimiento al cliente. |
+
+
 
 **Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
 
-**EXTERNOS**
 
-![Image-6](https://github.com/PaoSil/Take-Time/blob/master/assets/img/stakeholders-2.png)
+|EXTERNOS|
+|:------:|
+
+| Procedencia | Stakeholders | Tipo | Rol |
+|:-----------:|:------------:|:----:|:----|
+|Universidades e Institutos| Estudiantes de Ingeniería | Externo | Practicantes de Ingeniería en el proceso de producción. |
+|Universidades e Institutos| Catedráticos de la especialidad de Ingeniería | Externo | Brindan los conocimientos sobre el estudio de tiempos que se hace en una empresa. |
+| Empresas | Ingenieros profesionales | Externo  | Profesionales de Ingeniería que intervienen en el desarrollo de las empresas manufactureras. |  
+| Empresas | Proveedores de Insumos | Externo | Donde se llevan a cabo los procesos de las materias primas.|
+| Entidad reguladora | Sociedad Nacional de Industrias (SNI) | Externo | Entidad sin fines de lucro que ayuda al sector industrial en el Perú. |
+
 
 **Fuente**: <https://onedrive.live.com/edit.aspx?cid=3e000f53a3f24d5f&page=view&resid=3E000F53A3F24D5F!5002&parId=3E000F53A3F24D5F!108&app=Excel&wacqt=mru>
+
 
 ### Benchmarking:
 
 Hemos encontrado dos competencias que tambien han desarrollado esta tecnologia.
 
-##### EON - Estudios de Tiempos
+#### EON - Estudios de Tiempos
 
-**Experiencia**
-
-Esta app fue creada por un Ingeniero Industrial, que basado en su experiencia nos comenta lo siguiente: "fue un verdadero dolor de cabeza para mis compañeros el dominar esta técnica. Digo para mis compañeros porque un amigo mío y yo, apoyándonos de nuestros conocimientos de Visual Basic, desarrollamos un pequeño y práctico software que nos ayudaba a tomar, registrar y analizar los tiempos de las operaciones para luego calcular el tiempo estándar de las mismas. Todo esto sin ponerle la mano al cronómetro, papel y lápiz. Lo que mis compañeros hacían en una clase de 4 horas, mi amigo y yo, lo hacíamos 1 hora (75% mas rápido)".
+![Imagen-5]()
 
 **Contacto**: <eonestudiosdetiempos@gmail.com>
 
