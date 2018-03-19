@@ -76,28 +76,47 @@ Aquellos Stakeholders que trabajan en una empresa.
 
 ### Benchmarking:
 
+
+#### Competidores:
+
 Hemos encontrado dos competencias que tambien han desarrollado esta tecnologia.
 
-#### EON - Estudios de Tiempos
 
-![Imagen-5]()
+##### EON - Estudios de Tiempos
+
+![Imagen-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/LOGO-EON.png)
 
 **Contacto**: <eonestudiosdetiempos@gmail.com>
 
-**Que soluciona EON**
+**Que soluciona**
 
 - Eon, es una aplicacion que puede ser utilizada desde un movil o tablet.
 - Eon ayuda a que la toma de tiempos sea mas rapida, segura y sencilla.
 - Es gratuita para beneficiar a la comunidad de estudiantes y profesionales del area de Ingeniera Inductrial.
 
-**Vistas de la Aplicación**
-
-![Image-4](https://github.com/PaoSil/Take-Time/blob/master/assets/img/eon1.png)
-
-![Image-5](https://github.com/PaoSil/Take-Time/blob/master/assets/img/eon2.png)
-
 **Fuentes**: <https://play.google.com/store/apps/details?id=com.hotmail.mercado.tactuk.ivan.editfields&hl=es_419>
 
+##### Estudio de Tiempo industrial
+
+![Imagen-6](https://github.com/PaoSil/Take-Time/blob/master/assets/img/LOGO-Elizondo.png)
+
+**Contacto**: <help@adestech.mx>
+
+**Que soluciona**
+
+- Estudio de tiempo industrial, es un cronometro que trabaja en décimas de minuto y en segundos para tus estudios de tiempo.
+- Ayuda a registrar el tiempo que tardó para realizar la tarea o actividad.
+- Para obtener la aplicación se paga $ 39.00.
+
+
+**Fuentes**: <https://itunes.apple.com/mx/app/estudio-de-tiempo-industrial/id1068597144?mt=8>
+
+#### Análisis comparativo
+
+| Aplicación | Gratis | Exportar E.T. | Información |  Reanudar E.T. | Guardar E.T. | Suplementos por género | Factor de Valoración | Selección Nº de Operaciones | Selección Nº de ciclos | Calcular T.S. total |
+|:----------:|:------:|:-------------:|:-----------:|:--------------:|:------------:|:----------------------:|:-----------------------:|:---------------------------:|:----------------------:|:-------------------:|
+|EON| **SÍ** | NO | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | **SÍ** |
+| Estudio de Tiempo Industrial | NO | **SÍ** | NO | NO | **SÍ** | NO | NO | **SÍ** | **SÍ** | NO |
 
 ### Plan Research:
 
