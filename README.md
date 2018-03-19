@@ -195,6 +195,10 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 
 ### Affinity Map:
 
-![Imagen-10]()
+![Imagen-10](https://github.com/PaoSil/Take-Time/blob/master/assets/img/affinity%20map.png)
 
 **Fuente:** <https://realtimeboard.com/app/board/o9J_kzs2ZlA=/>
+
+### User Persona:
+
+Con la informacion reclutada de las entrevistas, se define nuestro User Persona.
