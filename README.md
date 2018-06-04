@@ -1,6 +1,12 @@
 # Take Time
 
-![Image-1](LOGO)
+Take es una app movil de estudio de tiempos para procesos de ingeniería, que ayuda a agilizar la toma de tiempos de una manera rápida, útil y eficiente.
+
+![take-time](https://user-images.githubusercontent.com/32304503/40931664-7ba833c4-67f1-11e8-917d-13080084435a.png)
+
+## Desarrollado para:
+
+[VRI - UNMSM](http://vri.unmsm.edu.pe/)
 
 ## Contexto:
 
