@@ -6,7 +6,7 @@ Take es una app movil de estudio de tiempos para procesos de ingeniería, que ay
 
 ## Desarrollado para:
 
-[VRI - UNMSM](http://vri.unmsm.edu.pe/)
+[Laboratoria](http://www.laboratoria.la/)
 
 ## Contexto:
 
